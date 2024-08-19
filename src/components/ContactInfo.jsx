@@ -18,7 +18,7 @@ function Contact() {
             height="150px"
             onClick={() => copyText("7634438483")}
           />
-          <h2>(763) 443 - 8483</h2>
+          <h2>(###) 443 - 8483</h2>
           <Para>
             Contact me through this phone number, preferably through text, but
             call if you'd like!
